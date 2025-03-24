@@ -1,19 +1,5 @@
-Fix the error
-login code with otp
-hiiiii
-hello
-how
-friend
-rrrtrtrtr
-iop
-uyyyyy
-break
-boil
-ed1
-vdfvdf
-prince
-
-
-jgj
-manish
-
+void function()
+{
+int x=90;
+String m="Pankaj";
+}
